@@ -6,7 +6,7 @@
 [![npm](https://img.shields.io/npm/dw/n2words)](https://npmjs.com/package/n2words)
 [![jsDelivr](https://data.jsdelivr.com/v1/package/npm/n2words/badge)](https://www.jsdelivr.com/package/npm/n2words)
 
-__n2words__ converts numerical numbers into written ones, supports [27 languages](https://github.com/forzagreen/n2words#supported-languages), and has zero dependencies.
+__n2words__ converts numerical numbers into written ones, supports [28 languages](https://github.com/mulgerehircum/n2words#supported-languages), and has zero dependencies.
 
 ## Example
 
@@ -78,6 +78,7 @@ n2words is also available on [jsDelivr](https://www.jsdelivr.com/package/npm/n2w
 - `no` (Norwegian)
 - `pl` (Polish)
 - `pt` (Portuguese)
+- `ro` (Romanian)
 - `ru` (Russian)
 - `sr` (Serbian)
 - `tr` (Turkish)
